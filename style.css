@@ -1,0 +1,17 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.card {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.tema-escuro {
+    background-color: #121212;
+    color: white;
+}
+
+.tema-escuro .card {
+    background-color: #1f1f1f;
+    color: white;
+}
